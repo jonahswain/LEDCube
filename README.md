@@ -1,6 +1,5 @@
 # LED Cube
-### Semi-modular RGB LED Cube  
-### Plans/schematics/code  
+#### Semi-modular RGB LED Cube plans/schematics/code  
   
 ## Contributors  
 - Jonah Swain  
